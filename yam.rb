@@ -1,4 +1,4 @@
 def yam
-	puts "mmm, so yammy"
+	puts "mmm, it is so yammy"
 end
 puts yam
