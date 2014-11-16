@@ -1,1 +1,0 @@
-puts "my favourite season is spring"
