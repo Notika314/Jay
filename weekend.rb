@@ -1,1 +1,0 @@
-puts "yapee!! Today its a weekend"
